@@ -1,0 +1,8 @@
+gpg --full-generate-key
+kind: 1 (RSA/RSA)
+size: 3072
+expire: 0
+name: Testi McTest
+email: testi@testmail.org
+(no passphrase)
+
